@@ -48,4 +48,4 @@ spec:
     - petstore
  dependsOn:
    - component:default/lrcs-service
-#  system: yournamehere-system
+ system: lrcs-system
