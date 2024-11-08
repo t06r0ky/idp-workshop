@@ -46,6 +46,6 @@ spec:
     - spotify
   providesApis:
     - petstore
- dependsOn:
-   - component:default/lrcs-service
- system: lrcs-system
+  dependsOn:
+    - component:default/lrcs-service
+  system: lrcs-system
